@@ -1,1 +1,3 @@
 # amazon_clone
+
+This is my first amazon clone which i made using HTML, CSS ...
